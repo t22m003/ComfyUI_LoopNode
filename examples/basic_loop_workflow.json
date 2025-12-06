@@ -1,0 +1,42 @@
+{
+    "last_node_id": 1,
+    "last_link_id": 0,
+    "nodes": [
+        {
+            "id": 1,
+            "type": "SimpleForLoop",
+            "pos": [
+                100,
+                100
+            ],
+            "size": {
+                "0": 210,
+                "1": 58
+            },
+            "flags": {},
+            "order": 0,
+            "mode": 0,
+            "inputs": [],
+            "outputs": [
+                {
+                    "name": "index",
+                    "type": "INT",
+                    "links": [],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "SimpleForLoop"
+            },
+            "widgets_values": [
+                5
+            ]
+        }
+    ],
+    "links": [],
+    "groups": [],
+    "config": {},
+    "extra": {},
+    "version": 0.4
+}
