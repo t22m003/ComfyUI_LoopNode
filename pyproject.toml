@@ -28,9 +28,8 @@ Documentation = "https://github.com/t22m003/ComfyUI_LoopNode/wiki"
 "Bug Tracker" = "https://github.com/t22m003/ComfyUI_LoopNode/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "snaka"
 DisplayName = "ComfyUI_LoopNode"
 Icon = ""
 includes = [] 
 # "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
-
