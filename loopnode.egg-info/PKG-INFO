@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: loopnode
+Version: 1.0.0
+Summary: Custom node that provides loop (for-loop) functionality in ComfyUI.
+Project-URL: Repository, https://github.com/t22m003/ComfyUI_LoopNode
+Project-URL: Documentation, https://github.com/t22m003/ComfyUI_LoopNode/wiki
+Project-URL: Bug Tracker, https://github.com/t22m003/ComfyUI_LoopNode/issues

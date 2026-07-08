@@ -1,0 +1,7 @@
+README.md
+loop_node.py
+pyproject.toml
+loopnode.egg-info/PKG-INFO
+loopnode.egg-info/SOURCES.txt
+loopnode.egg-info/dependency_links.txt
+loopnode.egg-info/top_level.txt
