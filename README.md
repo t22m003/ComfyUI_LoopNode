@@ -7,7 +7,7 @@ This allows you to repeat execution steps by outputting a list of integers, whic
 ## Features
 
 - **For Loop (Count)**: Simple loop that runs `N` times. outputs `0` to `N-1`.
-- **For Loop (Range)**: Loop based on python `range(start, stop, step)`.
+- **For Loop (Range)**: Loop based on python `range(start, stop, step)` (negative values and descending loops supported, except `step=0`).
 
 ## Installation
 
